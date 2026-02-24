@@ -4,7 +4,7 @@ using System.Diagnostics.Metrics;
 using System.IO;
 using System.Threading;
 
-namespace SeminarskaNaloga
+namespace TextBasedRpg
 {
     internal class Program
     {
